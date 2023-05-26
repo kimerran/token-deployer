@@ -1,0 +1,12 @@
+{
+    "contracts": {
+        "tokenDeployer": {
+            "scroll": "0xBD278aE6A29Bd5FA5bE9729F1Bd8e93C76f11c87",
+            "neon": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d",
+            "linea": "0x8B8AD9071d5bE4FDB8Fa123d8BFbF61b7E40FDA2",
+            "evmos": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d",
+            "moonbase": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d",
+            "avaxtestnet": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d"
+        }
+    }
+}
