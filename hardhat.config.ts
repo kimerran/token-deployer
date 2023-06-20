@@ -53,6 +53,17 @@ const config: HardhatUserConfig = {
       url: 'https://api.avax-test.network/ext/C/rpc',
       accounts: [`${DEFAULT_SIGNER_PRIVATE_KEY}`],
     },
+    shardeumsphinx: {
+      url: 'https://sphinx.shardeum.org/',
+      chainId: 8082,
+      accounts: [`${DEFAULT_SIGNER_PRIVATE_KEY}`],
+    },
+    opbnb: {
+      url: 'https://opbnb-testnet-rpc.bnbchain.org',
+      chainId: 5611,
+      gasPrice: 1500000001,
+      accounts: [`${DEFAULT_SIGNER_PRIVATE_KEY}`],
+    },
     hardhat: {
       accounts: {
         accountsBalance: '100000000000000000000'

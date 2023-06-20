@@ -6,7 +6,9 @@
             "linea": "0x8B8AD9071d5bE4FDB8Fa123d8BFbF61b7E40FDA2",
             "evmos": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d",
             "moonbase": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d",
-            "avaxtestnet": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d"
+            "avaxtestnet": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d",
+            "shardeumsphinx": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d",
+            "opbnb": "0x600d4a8cf5cAEFdecA95592fBB1c48a0c5a75C7d"
         }
     }
 }
